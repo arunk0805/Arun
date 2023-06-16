@@ -1,0 +1,7 @@
+Response Body: {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+Response StatusCode: 200

@@ -1,0 +1,13 @@
+{
+	"createActivities": {
+		"id": 7,
+		"title": "Cricket",
+		"dueDate": "2023-05-18T12:10:31.424Z",
+		"completed": true
+	},
+	"update": {
+		"name": "ARR Hits",
+		"description": "New playlist description",
+		"public": false
+	}
+}

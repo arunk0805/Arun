@@ -1,0 +1,14 @@
+{
+	"createActivity": {
+		"id": 7,
+		"title": "Cricket",
+		"dueDate": "2023-05-18T18:33:20.687Z",
+		"completed": true
+	},
+	"updateActivity": {
+		"id": 7,
+		"title": "Football",
+		"dueDate": "2023-05-18T18:33:20.687Z",
+		"completed": true
+	}
+}

@@ -1,0 +1,17 @@
+<suite name="SwaggerApi">
+	   
+	<test name="Authors Details">
+		<groups>
+			<run>
+				<include name="e2e" />
+			</run>
+		</groups>
+		       
+		<classes>
+            
+			<class name="org.swaggerstest.Authors" />
+			       
+		</classes>
+		   
+	</test>
+</suite>

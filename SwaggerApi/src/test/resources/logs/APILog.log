@@ -1,0 +1,1335 @@
+2023-05-23 16:05:19,288 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 16:05:20,580 - org.utilities.BaseClass -ERROR - Post method is not performed java.net.ConnectException: Connection refused: connect
+2023-05-23 16:05:20,591 - org.swaggerstest.Authors -ERROR - Post method is not performedjava.lang.NullPointerException: Cannot invoke "io.restassured.response.Response.statusCode()" because "postMethodResponse" is null
+2023-05-23 16:08:53,448 - org.utilities.BaseClass -ERROR - Get method is not performed java.net.ConnectException: Connection refused: connect
+2023-05-23 16:09:15,210 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 16:09:16,400 - org.utilities.BaseClass -ERROR - Post method is not performed java.net.ConnectException: Connection refused: connect
+2023-05-23 16:09:16,401 - org.swaggerstest.Authors -ERROR - Post method is not performedjava.lang.NullPointerException: Cannot invoke "io.restassured.response.Response.statusCode()" because "postMethodResponse" is null
+2023-05-23 16:09:16,494 - org.utilities.BaseClass -ERROR - Get method is not performed java.net.ConnectException: Connection refused: connect
+2023-05-23 16:10:00,371 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 16:10:01,512 - org.utilities.BaseClass -ERROR - Post method is not performed java.net.ConnectException: Connection refused: connect
+2023-05-23 16:10:01,512 - org.swaggerstest.Authors -ERROR - Post method is not performedjava.lang.NullPointerException: Cannot invoke "io.restassured.response.Response.statusCode()" because "postMethodResponse" is null
+2023-05-23 16:11:21,210 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 16:11:22,365 - org.utilities.BaseClass -ERROR - Post method is not performed java.net.ConnectException: Connection refused: connect
+2023-05-23 16:11:22,365 - org.swaggerstest.Authors -INFO - nullapi/v1/Authors
+2023-05-23 16:11:22,366 - org.swaggerstest.Authors -ERROR - Post method is not performedjava.lang.NullPointerException: Cannot invoke "io.restassured.response.Response.statusCode()" because "postMethodResponse" is null
+2023-05-23 16:12:44,808 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 16:12:47,256 - org.swaggerstest.Authors -INFO - https://fakerestapi.azurewebsites.net/api/v1/Authors
+2023-05-23 16:13:43,382 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 16:13:45,712 - org.swaggerstest.Authors -INFO - https://fakerestapi.azurewebsites.net/api/v1/Authors
+2023-05-23 16:13:45,739 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 16:13:45,740 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 16:15:09,960 - org.swaggerstest.Authors -INFO - https://fakerestapi.azurewebsites.net/api/v1/Authors/{id}
+2023-05-23 16:16:54,664 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 16:16:57,070 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 16:16:57,071 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 16:16:57,720 - org.swaggerstest.Authors -INFO - 7
+2023-05-23 16:17:51,048 - org.swaggerstest.Authors -INFO - https://fakerestapi.azurewebsites.net/api/v1/Authors/{id}
+2023-05-23 16:17:51,050 - org.swaggerstest.Authors -INFO - 0
+2023-05-23 16:18:25,096 - org.swaggerstest.Authors -INFO - https://fakerestapi.azurewebsites.net/api/v1/Authors/{id}
+2023-05-23 16:18:25,098 - org.swaggerstest.Authors -INFO - 0
+2023-05-23 16:28:47,779 - org.swaggerstest.Authors -INFO - https://fakerestapi.azurewebsites.net/api/v1/Authors/{id}
+2023-05-23 16:28:47,781 - org.swaggerstest.Authors -INFO - 0
+2023-05-23 16:28:47,783 - org.swaggerstest.Authors -INFO - 7
+2023-05-23 16:28:49,969 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-23 16:28:49,969 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 16:29:34,007 - org.swaggerstest.Authors -INFO - 7
+2023-05-23 16:29:36,376 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 2,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-23 16:29:36,377 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 16:45:18,427 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 16:45:21,335 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-23 16:45:21,336 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 17:48:21,907 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 17:48:25,352 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 17:48:25,353 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 17:48:27,013 - org.swaggerstest.Authors -INFO - Status Code 200
+Authors details deleted successfully
+2023-05-23 17:48:28,154 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 2,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-23 17:48:28,154 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-23 17:48:28,226 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 17:48:29,213 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-23 17:48:29,213 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 18:11:21,495 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 18:11:24,582 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 18:11:24,582 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 18:11:26,137 - org.swaggerstest.Authors -INFO - Status Code 200
+Authors details deleted successfully
+2023-05-23 18:11:27,215 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-23 18:11:27,215 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-23 18:11:27,285 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 18:11:28,375 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-23 18:11:28,375 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 18:14:49,148 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 18:14:52,333 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 18:14:52,333 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 18:15:23,900 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 18:15:26,548 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 18:15:26,549 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 18:18:12,020 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 5,
+    "idBook": 2,
+    "firstName": "First Name 5",
+    "lastName": "Last Name 5"
+}
+2023-05-23 18:18:12,022 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-23 18:18:41,923 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 18:18:44,898 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 18:18:44,899 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 18:18:46,577 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-23 18:18:46,577 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-23 18:20:05,800 - org.swaggerstest.Authors -INFO - 5
+2023-05-23 18:20:08,273 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 5,
+    "idBook": 2,
+    "firstName": "First Name 5",
+    "lastName": "Last Name 5"
+}
+2023-05-23 18:20:08,274 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-23 18:20:20,769 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 18:20:23,527 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 18:20:23,528 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 18:20:46,665 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 18:20:49,425 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 18:20:49,425 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 18:20:49,935 - org.swaggerstest.Authors -INFO - 7
+2023-05-23 18:20:51,163 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-23 18:20:51,164 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-23 18:41:23,476 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 18:41:26,675 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 18:41:26,675 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-23 19:30:09,275 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 295,
+        "idBook": 101,
+        "firstName": "First Name 295",
+        "lastName": "Last Name 295"
+    },
+    {
+        "id": 296,
+        "idBook": 101,
+        "firstName": "First Name 296",
+        "lastName": "Last Name 296"
+    },
+    {
+        "id": 297,
+        "idBook": 101,
+        "firstName": "First Name 297",
+        "lastName": "Last Name 297"
+    }
+]
+2023-05-23 19:30:09,278 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-23 19:30:51,474 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-23 19:30:54,000 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-23 19:30:54,000 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 10:49:08,988 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 10:49:11,821 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 10:49:11,821 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 10:49:13,360 - org.swaggerstest.Authors -INFO - Status Code 200
+Authors details deleted successfully
+2023-05-24 10:49:13,369 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 10:49:14,318 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 10:49:14,318 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 10:49:14,373 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 10:49:15,375 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 10:49:15,375 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 10:52:08,045 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 300,
+        "idBook": 101,
+        "firstName": "First Name 300",
+        "lastName": "Last Name 300"
+    },
+    {
+        "id": 301,
+        "idBook": 101,
+        "firstName": "First Name 301",
+        "lastName": "Last Name 301"
+    },
+    {
+        "id": 302,
+        "idBook": 101,
+        "firstName": "First Name 302",
+        "lastName": "Last Name 302"
+    }
+]
+2023-05-24 10:52:08,047 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 10:54:13,065 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 295,
+        "idBook": 101,
+        "firstName": "First Name 295",
+        "lastName": "Last Name 295"
+    },
+    {
+        "id": 296,
+        "idBook": 101,
+        "firstName": "First Name 296",
+        "lastName": "Last Name 296"
+    },
+    {
+        "id": 297,
+        "idBook": 101,
+        "firstName": "First Name 297",
+        "lastName": "Last Name 297"
+    },
+    {
+        "id": 298,
+        "idBook": 101,
+        "firstName": "First Name 298",
+        "lastName": "Last Name 298"
+    }
+]
+2023-05-24 10:54:13,068 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 11:02:07,606 - org.utilities.BaseClass -ERROR - PutMethod with OAuth2.0 is not performed io.restassured.module.jsv.JsonSchemaValidationException: java.io.FileNotFoundException: D:\Eclipse\SwaggerApi\Schema\getBookIdSchema (The system cannot find the file specified)
+2023-05-24 11:02:07,641 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 301,
+        "idBook": 101,
+        "firstName": "First Name 301",
+        "lastName": "Last Name 301"
+    },
+    {
+        "id": 302,
+        "idBook": 101,
+        "firstName": "First Name 302",
+        "lastName": "Last Name 302"
+    },
+    {
+        "id": 303,
+        "idBook": 101,
+        "firstName": "First Name 303",
+        "lastName": "Last Name 303"
+    },
+    {
+        "id": 304,
+        "idBook": 101,
+        "firstName": "First Name 304",
+        "lastName": "Last Name 304"
+    }
+]
+2023-05-24 11:02:07,641 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 11:02:56,324 - org.utilities.BaseClass -ERROR - PutMethod with OAuth2.0 is not performed io.restassured.module.jsv.JsonSchemaValidationException: java.io.FileNotFoundException: D:\Eclipse\SwaggerApi\Schema\getBookIdSchema.json (The system cannot find the file specified)
+2023-05-24 11:02:56,369 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 301,
+        "idBook": 101,
+        "firstName": "First Name 301",
+        "lastName": "Last Name 301"
+    },
+    {
+        "id": 302,
+        "idBook": 101,
+        "firstName": "First Name 302",
+        "lastName": "Last Name 302"
+    },
+    {
+        "id": 303,
+        "idBook": 101,
+        "firstName": "First Name 303",
+        "lastName": "Last Name 303"
+    },
+    {
+        "id": 304,
+        "idBook": 101,
+        "firstName": "First Name 304",
+        "lastName": "Last Name 304"
+    }
+]
+2023-05-24 11:02:56,370 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 11:03:18,705 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 11:03:21,268 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 11:03:21,269 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 11:04:56,481 - org.utilities.BaseClass -ERROR - Schema validation is not performed io.restassured.module.jsv.JsonSchemaValidationException: java.io.FileNotFoundException: D:\Eclipse\SwaggerApi\Schema\getBookIdSchema.json (The system cannot find the file specified)
+2023-05-24 11:04:56,514 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 304,
+        "idBook": 101,
+        "firstName": "First Name 304",
+        "lastName": "Last Name 304"
+    },
+    {
+        "id": 305,
+        "idBook": 101,
+        "firstName": "First Name 305",
+        "lastName": "Last Name 305"
+    },
+    {
+        "id": 306,
+        "idBook": 101,
+        "firstName": "First Name 306",
+        "lastName": "Last Name 306"
+    }
+]
+2023-05-24 11:04:56,514 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 11:06:12,735 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 11:06:12,763 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 297,
+        "idBook": 101,
+        "firstName": "First Name 297",
+        "lastName": "Last Name 297"
+    },
+    {
+        "id": 298,
+        "idBook": 101,
+        "firstName": "First Name 298",
+        "lastName": "Last Name 298"
+    },
+    {
+        "id": 299,
+        "idBook": 101,
+        "firstName": "First Name 299",
+        "lastName": "Last Name 299"
+    }
+]
+2023-05-24 11:06:12,763 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 11:10:35,498 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 11:10:38,259 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 11:10:38,282 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 2,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 11:10:38,282 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 11:10:39,294 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 11:10:39,299 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 301,
+        "idBook": 101,
+        "firstName": "First Name 301",
+        "lastName": "Last Name 301"
+    },
+    {
+        "id": 302,
+        "idBook": 101,
+        "firstName": "First Name 302",
+        "lastName": "Last Name 302"
+    },
+    {
+        "id": 303,
+        "idBook": 101,
+        "firstName": "First Name 303",
+        "lastName": "Last Name 303"
+    },
+    {
+        "id": 304,
+        "idBook": 101,
+        "firstName": "First Name 304",
+        "lastName": "Last Name 304"
+    }
+]
+2023-05-24 11:10:39,300 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 11:17:40,689 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 11:17:43,370 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 11:17:43,372 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 11:17:43,372 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 11:17:44,033 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 11:17:45,089 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 11:17:45,090 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 11:17:45,091 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 11:17:46,095 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 11:17:46,096 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 301,
+        "idBook": 101,
+        "firstName": "First Name 301",
+        "lastName": "Last Name 301"
+    },
+    {
+        "id": 302,
+        "idBook": 101,
+        "firstName": "First Name 302",
+        "lastName": "Last Name 302"
+    }
+]
+2023-05-24 11:17:46,096 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 11:17:46,152 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 11:17:47,210 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 11:17:47,211 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 11:17:47,211 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 11:17:48,218 - org.swaggerstest.Authors -INFO - Status Code 200
+Authors details deleted successfully
+2023-05-24 13:07:23,128 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 13:07:26,191 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:07:26,192 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 13:07:26,193 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 13:07:26,757 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 13:07:27,990 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:07:27,991 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 13:07:27,992 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 13:07:29,144 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:07:29,146 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 302,
+        "idBook": 101,
+        "firstName": "First Name 302",
+        "lastName": "Last Name 302"
+    },
+    {
+        "id": 303,
+        "idBook": 101,
+        "firstName": "First Name 303",
+        "lastName": "Last Name 303"
+    },
+    {
+        "id": 304,
+        "idBook": 101,
+        "firstName": "First Name 304",
+        "lastName": "Last Name 304"
+    },
+    {
+        "id": 305,
+        "idBook": 101,
+        "firstName": "First Name 305",
+        "lastName": "Last Name 305"
+    }
+]
+2023-05-24 13:07:29,146 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 13:07:29,194 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 13:07:30,345 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:07:30,346 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 13:07:30,346 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 13:07:31,555 - org.swaggerstest.Authors -INFO - Status Code 200
+Authors details deleted successfully
+2023-05-24 13:12:27,707 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 13:12:30,305 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:12:30,307 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 13:12:30,307 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 13:12:30,827 - org.utilities.BaseClass -ERROR - getJsonObject not performed java.io.FileNotFoundException: D:\Eclipse\RestAssured\src\test\SwaggerApi\textFile (The system cannot find the path specified)
+2023-05-24 13:13:57,072 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 13:13:59,661 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:13:59,663 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 13:13:59,664 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 13:14:00,066 - org.utilities.BaseClass -ERROR - writeLogsAsTextFile not performed java.io.FileNotFoundException: D:\Eclipse\RestAssured\src\test\SwaggerApi\textFile (The system cannot find the path specified)
+2023-05-24 13:15:52,066 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 13:15:54,752 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:15:54,753 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 13:15:54,754 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 13:17:29,473 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 13:17:32,372 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:17:32,374 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 13:17:32,374 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 13:21:45,773 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 13:21:48,450 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:21:48,452 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 13:21:48,452 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 13:23:04,528 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 13:23:07,023 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:23:07,025 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 13:23:07,025 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 13:24:55,579 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 13:24:58,556 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:24:58,561 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 13:24:58,561 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 13:24:59,133 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 13:25:00,218 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:25:00,219 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 13:25:00,220 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 13:25:01,256 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:25:01,257 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 287,
+        "idBook": 101,
+        "firstName": "First Name 287",
+        "lastName": "Last Name 287"
+    },
+    {
+        "id": 288,
+        "idBook": 101,
+        "firstName": "First Name 288",
+        "lastName": "Last Name 288"
+    }
+]
+2023-05-24 13:25:01,258 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 13:25:01,332 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 13:25:02,414 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 13:25:02,414 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 13:25:02,415 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 13:25:03,608 - org.swaggerstest.Authors -INFO - Status Code 200
+Authors details deleted successfully
+2023-05-24 14:55:38,624 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 14:55:41,920 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 14:55:41,922 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 14:55:41,922 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 14:55:42,470 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 14:55:43,521 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 14:55:43,522 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 14:55:43,522 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 14:55:44,479 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 14:55:44,481 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 310,
+        "idBook": 101,
+        "firstName": "First Name 310",
+        "lastName": "Last Name 310"
+    },
+    {
+        "id": 311,
+        "idBook": 101,
+        "firstName": "First Name 311",
+        "lastName": "Last Name 311"
+    },
+    {
+        "id": 312,
+        "idBook": 101,
+        "firstName": "First Name 312",
+        "lastName": "Last Name 312"
+    },
+    {
+        "id": 313,
+        "idBook": 101,
+        "firstName": "First Name 313",
+        "lastName": "Last Name 313"
+    }
+]
+2023-05-24 14:55:44,481 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 14:55:44,541 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 14:55:45,642 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 14:55:45,643 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 14:55:45,644 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 14:55:46,649 - org.swaggerstest.Authors -INFO - Status Code 200
+Authors details deleted successfully
+2023-05-24 15:12:27,792 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 15:12:30,922 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:12:30,924 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 15:12:30,924 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 15:12:31,536 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 15:12:32,767 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:12:32,768 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 2,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 15:12:32,768 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 15:12:33,907 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:12:33,909 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 314,
+        "idBook": 101,
+        "firstName": "First Name 314",
+        "lastName": "Last Name 314"
+    },
+    {
+        "id": 315,
+        "idBook": 101,
+        "firstName": "First Name 315",
+        "lastName": "Last Name 315"
+    },
+    {
+        "id": 316,
+        "idBook": 101,
+        "firstName": "First Name 316",
+        "lastName": "Last Name 316"
+    },
+    {
+        "id": 317,
+        "idBook": 101,
+        "firstName": "First Name 317",
+        "lastName": "Last Name 317"
+    }
+]
+2023-05-24 15:12:33,909 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 15:12:33,967 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 15:12:35,125 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:12:35,126 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 15:12:35,126 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 15:12:36,235 - org.swaggerstest.Authors -INFO - Status Code 200
+Authors details deleted successfully
+2023-05-24 15:12:48,657 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 15:12:51,499 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:12:51,500 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 15:12:51,501 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 15:12:52,052 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 15:12:53,250 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:12:53,252 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 2,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 15:12:53,252 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 15:12:54,482 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:12:54,483 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 287,
+        "idBook": 101,
+        "firstName": "First Name 287",
+        "lastName": "Last Name 287"
+    },
+    {
+        "id": 288,
+        "idBook": 101,
+        "firstName": "First Name 288",
+        "lastName": "Last Name 288"
+    },
+    {
+        "id": 289,
+        "idBook": 101,
+        "firstName": "First Name 289",
+        "lastName": "Last Name 289"
+    }
+]
+2023-05-24 15:12:54,483 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 15:12:54,558 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 15:12:55,814 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:12:55,814 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 15:12:55,814 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 15:12:56,921 - org.swaggerstest.Authors -INFO - Status Code 200
+Authors details deleted successfully
+2023-05-24 15:13:22,539 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:13:22,565 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 303,
+        "idBook": 101,
+        "firstName": "First Name 303",
+        "lastName": "Last Name 303"
+    },
+    {
+        "id": 304,
+        "idBook": 101,
+        "firstName": "First Name 304",
+        "lastName": "Last Name 304"
+    },
+    {
+        "id": 305,
+        "idBook": 101,
+        "firstName": "First Name 305",
+        "lastName": "Last Name 305"
+    }
+]
+2023-05-24 15:13:22,565 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 15:20:33,615 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 15:20:36,394 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:20:36,396 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 15:20:36,396 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 15:20:36,895 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 15:20:38,124 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:20:38,125 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 15:20:38,125 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 15:20:39,388 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:20:39,389 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body [
+    {
+        "id": 296,
+        "idBook": 101,
+        "firstName": "First Name 296",
+        "lastName": "Last Name 296"
+    },
+    {
+        "id": 297,
+        "idBook": 101,
+        "firstName": "First Name 297",
+        "lastName": "Last Name 297"
+    }
+]
+2023-05-24 15:20:39,389 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 15:20:39,438 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 15:20:40,605 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:20:40,606 - org.swaggerstest.Authors -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 15:20:40,606 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 15:20:41,656 - org.swaggerstest.Authors -INFO - Status Code 200
+Authors details deleted successfully
+2023-05-24 15:30:28,648 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 15:30:31,450 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:30:31,452 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 15:30:31,453 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 15:34:00,049 - org.utilities.BaseClass -INFO - Status Code 200
+2023-05-24 15:34:00,057 - org.utilities.BaseClass -INFO - Response Body 
+2023-05-24 15:36:10,451 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body 
+2023-05-24 15:56:49,391 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 15:56:52,111 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 15:56:52,112 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 15:56:52,113 - org.utilities.BaseClass -INFO - writeLogsAsTextFile is performed
+2023-05-24 15:56:52,113 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:00:01,778 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:00:04,417 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:00:04,418 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:00:04,421 - org.utilities.BaseClass -INFO - writeLogsAsTextFile is performed
+2023-05-24 16:00:04,422 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:01:03,212 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:01:05,821 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:01:05,822 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:01:05,824 - org.utilities.BaseClass -INFO - writeLogsAsTextFile is performed
+2023-05-24 16:01:05,825 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:04:37,487 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:04:40,101 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:04:40,103 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:04:40,109 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:06:05,686 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:06:05,712 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body [
+    {
+        "id": 309,
+        "idBook": 101,
+        "firstName": "First Name 309",
+        "lastName": "Last Name 309"
+    },
+    {
+        "id": 310,
+        "idBook": 101,
+        "firstName": "First Name 310",
+        "lastName": "Last Name 310"
+    },
+    {
+        "id": 311,
+        "idBook": 101,
+        "firstName": "First Name 311",
+        "lastName": "Last Name 311"
+    },
+    {
+        "id": 312,
+        "idBook": 101,
+        "firstName": "First Name 312",
+        "lastName": "Last Name 312"
+    }
+]
+2023-05-24 16:06:05,718 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 16:31:36,455 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:31:39,084 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:31:39,086 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:31:39,102 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:32:34,447 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:32:36,980 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:32:36,981 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:32:36,985 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:34:21,236 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:34:23,861 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:34:23,862 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:34:23,869 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:34:23,870 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:35:18,690 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:35:21,347 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:35:21,350 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:35:21,354 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:35:21,356 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:36:03,953 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 16:36:06,385 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:36:06,386 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 16:36:06,393 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:36:06,394 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 16:40:39,556 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:40:42,613 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:40:42,614 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:40:42,619 - org.utilities.BaseClass -INFO - ----------------------------------------
+2023-05-24 16:40:42,619 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:40:42,621 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:40:43,258 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 16:40:44,278 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:40:44,278 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 16:40:44,286 - org.utilities.BaseClass -INFO - ----------------------------------------
+2023-05-24 16:40:44,286 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:40:44,286 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 16:40:45,325 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:40:45,326 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body [
+    {
+        "id": 284,
+        "idBook": 101,
+        "firstName": "First Name 284",
+        "lastName": "Last Name 284"
+    },
+    {
+        "id": 285,
+        "idBook": 101,
+        "firstName": "First Name 285",
+        "lastName": "Last Name 285"
+    },
+    {
+        "id": 286,
+        "idBook": 101,
+        "firstName": "First Name 286",
+        "lastName": "Last Name 286"
+    }
+]
+2023-05-24 16:40:45,335 - org.utilities.BaseClass -INFO - ----------------------------------------
+2023-05-24 16:40:45,335 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:40:45,336 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 16:40:45,407 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:40:46,552 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:40:46,553 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 16:40:46,562 - org.utilities.BaseClass -INFO - ----------------------------------------
+2023-05-24 16:40:46,562 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:40:46,573 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:40:47,493 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body 
+2023-05-24 16:40:47,503 - org.utilities.BaseClass -INFO - ----------------------------------------
+2023-05-24 16:40:47,503 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:40:47,504 - org.swaggerstest.Authors -INFO - Authors details deleted successfully
+2023-05-24 16:42:32,627 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:42:35,420 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:42:35,422 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:42:35,427 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:42:35,429 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:42:36,008 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 16:42:36,985 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:42:36,992 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 3,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 16:42:37,000 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:42:37,001 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 16:42:37,990 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:42:37,991 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body [
+    {
+        "id": 304,
+        "idBook": 101,
+        "firstName": "First Name 304",
+        "lastName": "Last Name 304"
+    },
+    {
+        "id": 305,
+        "idBook": 101,
+        "firstName": "First Name 305",
+        "lastName": "Last Name 305"
+    },
+    {
+        "id": 306,
+        "idBook": 101,
+        "firstName": "First Name 306",
+        "lastName": "Last Name 306"
+    }
+]
+2023-05-24 16:42:37,999 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:42:37,999 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 16:42:38,073 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:42:39,086 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:42:39,087 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 16:42:39,094 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:42:39,094 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:42:40,002 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body 
+2023-05-24 16:42:40,013 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:42:40,013 - org.swaggerstest.Authors -INFO - Authors details deleted successfully
+2023-05-24 16:43:40,525 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:43:43,289 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:43:43,290 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:43:43,298 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:43:43,299 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:43:43,830 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 16:43:44,839 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:43:44,840 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 2,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 16:43:44,848 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:43:44,849 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 16:43:45,820 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:43:45,821 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body [
+    {
+        "id": 300,
+        "idBook": 101,
+        "firstName": "First Name 300",
+        "lastName": "Last Name 300"
+    },
+    {
+        "id": 301,
+        "idBook": 101,
+        "firstName": "First Name 301",
+        "lastName": "Last Name 301"
+    },
+    {
+        "id": 302,
+        "idBook": 101,
+        "firstName": "First Name 302",
+        "lastName": "Last Name 302"
+    }
+]
+2023-05-24 16:43:45,829 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:43:45,830 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 16:43:45,891 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:43:46,867 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:43:46,868 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 16:43:46,876 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:43:46,876 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:43:47,812 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body 
+2023-05-24 16:43:47,820 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:43:47,820 - org.swaggerstest.Authors -INFO - Authors details deleted successfully
+2023-05-24 16:44:57,401 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:44:59,886 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:44:59,887 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+2023-05-24 16:44:59,891 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:44:59,892 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:45:00,453 - org.swaggerstest.Authors -INFO - 7
+2023-05-24 16:45:01,468 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:45:01,469 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 7,
+    "idBook": 2,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+2023-05-24 16:45:01,480 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:45:01,481 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 16:45:02,433 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:45:02,435 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body [
+    {
+        "id": 288,
+        "idBook": 101,
+        "firstName": "First Name 288",
+        "lastName": "Last Name 288"
+    },
+    {
+        "id": 289,
+        "idBook": 101,
+        "firstName": "First Name 289",
+        "lastName": "Last Name 289"
+    },
+    {
+        "id": 290,
+        "idBook": 101,
+        "firstName": "First Name 290",
+        "lastName": "Last Name 290"
+    }
+]
+2023-05-24 16:45:02,446 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:45:02,446 - org.swaggerstest.Authors -INFO - Authors details displayed
+2023-05-24 16:45:02,510 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-24 16:45:03,500 - org.utilities.BaseClass -INFO - Schema validation successfull
+2023-05-24 16:45:03,501 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+2023-05-24 16:45:03,511 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:45:03,512 - org.swaggerstest.Authors -INFO - Authors details created successfully
+2023-05-24 16:45:04,448 - org.utilities.BaseClass -INFO - Status Code 200
+Response Body 
+2023-05-24 16:45:04,461 - org.utilities.BaseClass -INFO - File writing completed
+2023-05-24 16:45:04,462 - org.swaggerstest.Authors -INFO - Authors details deleted successfully

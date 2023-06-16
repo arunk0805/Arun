@@ -1,0 +1,8301 @@
+
+ Response Body: {
+    "id": 7,
+    "idBook": 101,
+    "firstName": "Arun",
+    "lastName": "kumar"
+}
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "id": 7,
+    "idBook": 2,
+    "firstName": "First Name 7",
+    "lastName": "Last Name 7"
+}
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 288,
+        "idBook": 101,
+        "firstName": "First Name 288",
+        "lastName": "Last Name 288"
+    },
+    {
+        "id": 289,
+        "idBook": 101,
+        "firstName": "First Name 289",
+        "lastName": "Last Name 289"
+    },
+    {
+        "id": 290,
+        "idBook": 101,
+        "firstName": "First Name 290",
+        "lastName": "Last Name 290"
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "id": 18,
+    "idBook": 101,
+    "firstName": "Arunkumar",
+    "lastName": "Kalaiselvan"
+}
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: 
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "ySj-qm6Lu7Jf-apsBiOEo"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "MRDlYbf_5Ev5Ihbg9LJqy"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "-d72LBPz5DX3jCFycn_Rv"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "rB9LhjU2q6SoMbXqNIFXO"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "F-F-2ItK6a6sS7e2wL-ki"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "WhyaJxlt4JYf36cDq-LyH"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "fIhhfW0BvJ3FPTK7uc5SE"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 141432131
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "25ze1EUz36XhIY90v5te2"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "la2v0tab4X9gzYZDWViVO"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 889711201
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "f_t1BjHFZP4pcDYVK_iOz"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "wOHtNgcEefd6Di7YXw3sz"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 951986146
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "w38-Ku4CqsFzv-3YlJ66f"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 149677299
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "T_yvlIiDKU8fK9bIvlrQy"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 949304352
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "mzvfmWCaLjNd_jVQog-3W"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 680902896
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "LD4mSoi9ntuo4T1W7sOmF"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 688785544
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "qpAaO16x7DXZEKUSTeBvX"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 560991831
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "4L-fO6wZSRFglP5bS8EW6"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "MeNSK1NPBns55QxEsnGok"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 668586204
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "5X23k0wDNFzzX9ANloDAh"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 925870642
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "Yd8cy8KjyyGmt8bKNoTft"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 388544097
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "OtWjf_rZoKctIBqS_ZkaO"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 818301841
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "d89kglRI20yYTVoyTU5Xq"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 637496121
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "1Y50yfNoXwmJBRlvQgbCx"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 108245660
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "lKg14UWar_kHxypG9Zkf7"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 880981248
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "DpZ5R_sok8nwwPlAye0W8"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 153136356
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "K1bgZzFZBRHKl8F_axsj3"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 945055272
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "bO5s_KZYdszgMquW_L8ez"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 130085076
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "lsm6QdNoiem9IHLS1fCgy"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "FWRW8nUTqKt3lTe3g30bZ"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 299348146
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "hIICM1i-1-Y2EIpXugUb8"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "b3tKq2H9NTD2RuLlX9OAV"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 381932497
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "_cnMFYw8G8SENiuwCn9qu"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 815871595
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "xwyX46uKZBeu8FBdaVihr"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 699157597
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "3JlQj6wt_Q0cSr7fMUog9"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "ll5sCZqg2PueJZNBT4vF0"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 855507936
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "gf7bvuC11Oba9fDpR4U3O"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 155571616
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "pyjlkXdTztpIEOHvmptOg"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 189808702
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "5JO4ZsPcGfUGwyffQKSg4"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 143797957
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "Y6kSiE6zGNT53oqtStKmY"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 92830840
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "Vc5RdRm0xnEC8DX7t_TO0"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 28992994
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "PtreNMlcvugYcW_pOOWkC"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "sUaRxMo4XWI_aLgUsGqoQ"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "oEmOVeNrK4HBNlBIYJB1D"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "tiMzQR7VIXiMcZtm5KXrY"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "1bCZsL0rKmJmDWzjxz6ci"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "n9ytHg9pKVZAa4ejgaRSg"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "3joubnAIOK108Omfn38c1"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "7yME15P4fy1wttgGVasaA"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "R-YqXg80IikbtqB56QXzQ"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "bC5JkitIaUiJyIT9seik-"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "W1x8iu-6n495lIYdJUir6"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "maRPIWAs4ghQed_DdYdnL"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "MCDE_JoOIkSJ-3wiGDFc2"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "jGuEc7hlMVuiL7yzqwQVu"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "yet24oVO_UCmU3rYizijY"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "U8RmTm2Hw_8fswVF1jv-u"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "GmUBgPiVZg3Scif6dJVAK"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "SunrsQfmk5NqHevPx-WUG"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "rASR1v1QTIxrd7NUBKhMl"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "jooxokMzEHhibC2nEQlYl"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "ireZof2TGqHNT-dInHeq7"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "2Yi8LHRJQi58Hl2yptBpl"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "_H2rBTipJ_nwy9eXjpl67"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "a_H8qpAjVBA3-7IQLsVEs"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "WGT-ISpxXol2LmEG7m0Zg"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "JNRcDmE0bzsF7fAknmMgP"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "ug1A5lH1oJIjTup3jk2NI"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "hBpMknApB8E04biTI_PCa"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "8hMDcQUh81R96JsxaXiOs"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "d5ycuq0Lhl8n7yRGxf3hs"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "B9aMaZgqTY4lGYZPI1xZM"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "ye_p5x5u2AsqJy3y9mch3"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "u5G6-nQBK2RBx0f_ODDuR"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "6NziOH00BXAhk6lfLyiKk"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "n9yABmE-ivArM6EhNJ4ch"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "CDIXGrUn02UxHP6t-hMbj"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "3JaRncMi_SpwlaxcmNfuQ"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "ERSqYX49IXcQa3ly73WaD"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "CTkc2a8hwM3gcprwd1uzY"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "qSGE055PpYHk93B0zyz_i"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 81813021
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "-SMBRf7GUz5nEK6tHfIng"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 56485583
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "PtVsI_eLmOlWKqxPCa0ZY"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 901185845
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "KkblmyqAYfOmiiPrKNeyb"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 598089880
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "XOloNM_71zdm4YCfCbFwn"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 346699489
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "pvpOd5ot7uNuZAQXc2qSv"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 434093023
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "I8fg40GhglKpozNbmnbd1"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 965428620
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "nPuwRHazlD57_T_hBwng8"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 653477784
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "7DvKNSJhqrsm5hAUM6m57"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 639238471
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "EVtwUddyOWmfrI9OGdL11"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 868970454
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "l5uPpdBbuaj3R0mGIun7g"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "LMcK9fw2zbNkAL7Gi5RbA"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "iBJAet6g3t8ekTamzwi7i"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "SjKWLV7VRPcMAPP0aXr-k"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "z6ZJiT7F0MiyBlRxhh-Na"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "8gnaSQHLbuXU7S_GG-BnT"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "flKbYi_u1JQcnIhQHA3fE"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "vUimryXAtlayLZcQNEQYf"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 346770098
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "Oh-e6LOeSMqgdFUFvrNqG"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "_UcjaDTUB_tkI4DNfQRdz"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "n1H__1J7IFNw6rVJPjQXX"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "AnifzRVSVHMNKl4CnTo4S"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "KRVOBnQpXtbCiMHXBHstf"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "ZYn7nfoeWJg6dT2aaXQbV"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "Fsw6cLZhgyqD7XgxVEO2I"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "oPdi1dteRP3U6IO6imuDP"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "IGf7T2e3wk1zv1Z-R1ETZ"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "oOzYhBlG2ZGZXQQC_ok7T"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "S3FjzONW2pAZzMChfmasO"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "ht-Y8BeQ7PfgXskUDv7XF"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "fZ6rtt_T-GJcKbvwlX8KB"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 821342226
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "Cc9oRsv8HAr3qUlG1oQRU"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 467157832
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "wMBauB-VMvruHJWXXr2Jk"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 293165914
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "H7PTXY5o38Fux8OLilfVh"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 256901371
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "rnSQz8X2ni9IWydVXE5dH"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 443272327
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "3rwSiB4244jCOKeIUJ0tE"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 685934677
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "e5T1xsfkbkhPmBzqSSF88"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 245120748
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "BSYokk7Q_rldK97ntQ5au"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 191621497
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "zaP_dZ4O48QdjpMMp3f01"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 922287570
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "nFofIepV1IZGQMBijDQlL"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 61001585
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "hoL44BUU2-IUx9t9wwf5N"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "lBqzCS8fX4Ourl9ha53Ck"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 308019511
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "9i7ToOO1sVNN230J5BuGP"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 510744679
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "xDZc4lnuwt_4DZ3_n8yT9"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 698431266
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "rIBoEytg8gZB9nIxk0xRB"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "Hsur6XOMTxmQMYoHy8C17"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 71953792
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "vJiysGNnDow2Ee55Xwn_w"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 512124541
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "roImdBDaTklAwsy2j0QHD"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 677466044
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "rOsrdb2QT8-66sooY_SsJ"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "rOsrdb2QT8-66sooY_SsJ"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "uU5MzSOJNtWFdxz_XdshK"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "pffeEEPsuSRvf9_S-oxR8"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 979973222
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "4xO7xooFbKPKruWu_mfLQ"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 902847526
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "yyeQKPMCD0ECggiY0E95i"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 33837590
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "iXWNJCki-a5b3GhoLmU9J"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 762538513
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "cznSduoq6ZrFBPWEmZa0L"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "1xjTboRw6d9uuMFCDqMbL"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 734373363
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "KSZ-TxLjRvbERpHeSajUL"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "b5zeysPQHJE9p_S7lw0um"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "OFWx-37p8zlPCsQBWSKgU"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 614644967
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "VqlfdpYCzRUA8hBcq6GjK"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 559277157
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "-OGGU4hns5OTdqhnSJBLX"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "The resource could not be found. Check your endpoint and request method."
+}
+Response StatusCode: 404
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 354532633
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: {
+    "error": "Invalid or missing productId."
+}
+Response StatusCode: 400
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: [
+    {
+        "id": 4643,
+        "category": "coffee",
+        "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+        "inStock": true
+    },
+    {
+        "id": 4646,
+        "category": "coffee",
+        "name": "Ethical Bean Medium Dark Roast, Espresso",
+        "inStock": true
+    },
+    {
+        "id": 4641,
+        "category": "coffee",
+        "name": "Don Francisco Colombia Supremo Medium Roast",
+        "inStock": true
+    },
+    {
+        "id": 1225,
+        "category": "fresh-produce",
+        "name": "1/2 in. Brushless Hammer Drill",
+        "inStock": true
+    },
+    {
+        "id": 3674,
+        "category": "fresh-produce",
+        "name": "20V Max Cordless Drill Combo Kit",
+        "inStock": true
+    },
+    {
+        "id": 2585,
+        "category": "fresh-produce",
+        "name": "Green Cabbage Organic",
+        "inStock": true
+    },
+    {
+        "id": 5851,
+        "category": "fresh-produce",
+        "name": "Cucumber Organic",
+        "inStock": false
+    },
+    {
+        "id": 8739,
+        "category": "fresh-produce",
+        "name": "Fresh Spinach Organic",
+        "inStock": true
+    },
+    {
+        "id": 2177,
+        "category": "meat-seafood",
+        "name": "Cosco Three Step Steel Platform",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Beef Choice Angus Ribeye Steak",
+        "inStock": true
+    },
+    {
+        "id": 1709,
+        "category": "meat-seafood",
+        "name": "Angus Steak Burgers",
+        "inStock": true
+    },
+    {
+        "id": 7395,
+        "category": "meat-seafood",
+        "name": "Boneless Skinless Chicken Breasts",
+        "inStock": true
+    },
+    {
+        "id": 8554,
+        "category": "candy",
+        "name": "Kinder Joy Eggs",
+        "inStock": true
+    },
+    {
+        "id": 6483,
+        "category": "candy",
+        "name": "Cadbury Milk Chocolate",
+        "inStock": true
+    },
+    {
+        "id": 5774,
+        "category": "candy",
+        "name": "HERSHEY'S, Milk Chocolate Almond",
+        "inStock": true
+    },
+    {
+        "id": 8753,
+        "category": "dairy",
+        "name": "Reduced Fat Milk",
+        "inStock": true
+    },
+    {
+        "id": 9482,
+        "category": "dairy",
+        "name": "Whole Milk",
+        "inStock": true
+    },
+    {
+        "id": 5477,
+        "category": "dairy",
+        "name": "Cream Cheese",
+        "inStock": true
+    },
+    {
+        "id": 5478,
+        "category": "dairy",
+        "name": "Low Fat Vanilla Yogurt",
+        "inStock": true
+    },
+    {
+        "id": 4875,
+        "category": "bread-bakery",
+        "name": "2800 Watt Inverter Generator",
+        "inStock": true
+    }
+]
+Response StatusCode: 200
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "7m8cfdJC81bOVRHJjHhXZ"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 401071486
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "Efn6pDfGk80FOE2JvF-Ot"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 367317376
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "cartId": "3j3Cy2P74yhM40Hd5Fiix"
+}
+Response StatusCode: 201
+
+------------------------------------
+ Response Body: {
+    "created": true,
+    "itemId": 70717593
+}
+Response StatusCode: 201
+
+------------------------------------

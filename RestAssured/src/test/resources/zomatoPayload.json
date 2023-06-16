@@ -1,0 +1,93 @@
+{
+    "app_payload": [
+        {
+            "header": {
+                "location": 30,
+                "timestamp": 1684391339
+            },
+            "payload": {
+                "key": "ztracking",
+                "value": {
+                    "entity_type": "search_page",
+                    "entity_id": 2755,
+                    "location_id": 30,
+                    "location_type": "city",
+                    "page_type": "delivery",
+                    "subpage_type": "[{\"filterType\":\"category_sheet\",\"filterValue\":\"delivery_home\",\"isHidden\":true,\"isApplied\":true,\"postKey\":\"{\\\"category_context\\\":\\\"delivery_home\\\"}\",\"name\":\"Delivery\"},{\"filterType\":\"universal_dish_id\",\"filterValue\":\"66197\",\"isApplied\":true,\"postKey\":\"{\\\"universal_dish_ids\\\":[\\\"66197\\\"]}\",\"name\":\"Juice\"}]",
+                    "event_type": "pageview",
+                    "app_type": "normal",
+                    "meta": {
+                        "whatsappUserId": "0"
+                    },
+                    "is_bot": 0,
+                    "source_app": "web_2019",
+                    "version": "1"
+                },
+                "url": "https://www.zomato.com/coimbatore/delivery?dishv2_id=66197"
+            }
+        },
+        {
+            "header": {
+                "location": 30,
+                "timestamp": 1684391339
+            },
+            "payload": {
+                "key": "jevent",
+                "value": {
+                    "ename": "search_location_fetched_from_cookie",
+                    "var1": "true"
+                },
+                "url": "https://www.zomato.com/coimbatore/delivery?dishv2_id=66197"
+            }
+        },
+        {
+            "header": {
+                "location": 30,
+                "timestamp": 1684391339
+            },
+            "payload": {
+                "key": "pageview",
+                "value": "/coimbatore/delivery?dishv2_id=66197",
+                "url": "https://www.zomato.com/coimbatore/delivery?dishv2_id=66197"
+            }
+        },
+        {
+            "header": {
+                "location": 30,
+                "timestamp": 1684391339
+            },
+            "payload": {
+                "key": "jevent",
+                "value": {
+                    "ename": "new_web_performance_metric",
+                    "var1": "FCP",
+                    "var2": "search",
+                    "var3": "1.673",
+                    "var4": "Desktop",
+                    "var5": "{\"downlink\":10,\"effectiveType\":\"4g\"}",
+                    "var6": "{\"appType\":\"normal\"}"
+                },
+                "url": "https://www.zomato.com/coimbatore/delivery?dishv2_id=66197"
+            }
+        },
+        {
+            "header": {
+                "location": 30,
+                "timestamp": 1684391340
+            },
+            "payload": {
+                "key": "jevent",
+                "value": {
+                    "ename": "new_web_performance_metric",
+                    "var1": "TTFB",
+                    "var2": "search",
+                    "var3": "1.461",
+                    "var4": "Desktop",
+                    "var5": "{\"downlink\":10,\"effectiveType\":\"4g\"}",
+                    "var6": "{\"appType\":\"normal\"}"
+                },
+                "url": "https://www.zomato.com/coimbatore/delivery?dishv2_id=66197"
+            }
+        }
+    ]
+}

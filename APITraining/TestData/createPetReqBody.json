@@ -1,0 +1,10 @@
+{
+	"id": 10,
+	"name": "doggie",
+	"categoryId": 1,
+	"categoryName": "Kutty",
+	"photoUrls": "string",
+	"tagsId": 0,
+	"tagsName": "string",
+	"status": "available"
+}

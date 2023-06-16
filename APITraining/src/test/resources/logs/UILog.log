@@ -1,0 +1,2177 @@
+2023-04-17 17:57:11,078 - org.basicapi.RestAssuredPractise -INFO - Get Data Successfully
+2023-04-17 18:00:03,859 - org.basicapi.RestAssuredPractise -INFO - Get Data Successfully
+2023-04-17 18:00:03,864 - org.basicapi.RestAssuredPractise -INFO - Get Data Successfully
+2023-04-18 10:50:00,945 - org.basicapi.RestAssuredPractise -INFO - Status Code Mismatched
+2023-04-18 10:52:34,357 - org.basicapi.RestAssuredPractise -INFO - Status Code Mismatched
+2023-04-18 10:52:35,959 - org.basicapi.RestAssuredPractise -INFO - Status Code Mismatched
+2023-04-18 10:52:37,191 - org.basicapi.RestAssuredPractise -INFO - Status Code Mismatched
+2023-04-18 10:52:38,369 - org.basicapi.RestAssuredPractise -INFO - Status Code Mismatched
+2023-04-18 11:07:01,492 - org.basicapi.PetStore -INFO - Status Code Mismatched
+2023-04-18 11:07:02,721 - org.basicapi.PetStore -INFO - Status Code Mismatched
+2023-04-18 11:07:03,915 - org.basicapi.PetStore -INFO - Status Code Mismatched
+2023-04-18 11:07:05,363 - org.basicapi.PetStore -INFO - Status Code Mismatched
+2023-04-18 11:51:27,289 - org.test.PetStore -INFO - Status Code Matched
+2023-04-18 11:51:28,574 - org.test.PetStore -INFO - Status Code Matched
+2023-04-18 11:51:29,805 - org.test.PetStore -INFO - Status Code Matched
+2023-04-18 11:51:31,041 - org.test.PetStore -INFO - Status Code Matched
+2023-04-18 15:44:21,025 - org.test.Store -INFO - Status Code Matched
+2023-04-18 15:49:37,017 - org.test.Store -INFO - Status Code Matched
+2023-04-18 15:51:07,013 - org.test.Store -INFO - Status Code Matched
+2023-04-18 17:17:32,388 - org.test.Pet -INFO - Status Code Matched
+2023-04-18 17:37:38,229 - org.test.Store -INFO - Resource Created
+2023-04-18 18:15:42,373 - org.test.Store -INFO - Resource Created
+2023-04-18 18:15:42,414 - org.test.Store -INFO - 100
+2023-04-18 18:19:03,334 - org.test.Store -INFO - Resource Created
+2023-04-18 18:19:03,367 - org.test.Store -INFO - 100
+2023-04-18 18:19:42,225 - org.test.Store -INFO - Resource Created
+2023-04-18 18:19:42,255 - org.test.Store -INFO - 100
+2023-04-18 18:19:43,446 - org.test.Store -INFO - Status Code Matched
+2023-04-18 18:22:44,567 - org.test.Store -INFO - Resource Created
+2023-04-18 18:22:44,608 - org.test.Store -INFO - 100
+2023-04-18 18:22:45,854 - org.test.Store -INFO - Status Code Matched
+2023-04-18 18:23:28,498 - org.test.Store -INFO - Resource Created
+2023-04-18 18:23:28,557 - org.test.Store -INFO - 100
+2023-04-18 18:23:29,783 - org.test.Store -INFO - Status Code Matched
+2023-04-18 18:24:21,526 - org.test.Store -INFO - Resource Created
+2023-04-18 18:24:21,553 - org.test.Store -INFO - 100
+2023-04-18 18:24:21,553 - org.test.Store -INFO - https://petstore3.swagger.io/api/v3/store/order/100
+2023-04-18 18:24:22,928 - org.test.Store -INFO - Status Code Matched
+2023-04-18 18:58:04,592 - org.test.Store -INFO - Status Code Matched
+2023-04-18 19:28:56,430 - org.test.Store -INFO - Resource Created
+2023-04-18 19:28:56,473 - org.test.Store -INFO - 100
+2023-04-18 19:28:56,473 - org.test.Store -INFO - https://petstore3.swagger.io/api/v3/store/order/100
+2023-04-18 19:28:57,559 - org.test.Store -INFO - Status Code Matched
+2023-04-18 19:33:54,242 - org.test.Store -INFO - Resource Created
+2023-04-18 19:33:54,276 - org.test.Store -INFO - 100
+2023-04-18 19:33:54,276 - org.test.Store -INFO - https://petstore3.swagger.io/api/v3/store/order/100
+2023-04-18 19:33:55,398 - org.test.Store -INFO - Status Code Matched
+2023-04-18 19:38:22,373 - org.test.Store -INFO - New pet store is created
+2023-04-18 19:38:22,406 - org.test.Store -INFO - 100
+2023-04-18 19:38:22,407 - org.test.Store -INFO - https://petstore3.swagger.io/api/v3/store/order/100
+2023-04-18 19:38:23,512 - org.test.Store -INFO - {
+    "id": 100,
+    "petId": 101,
+    "quantity": 7,
+    "shipDate": "2023-04-18T14:08:19.924+00:00",
+    "status": "approved",
+    "complete": true
+}
+2023-04-18 19:38:23,513 - org.test.Store -INFO - Successfully find the purchase order
+2023-04-18 19:48:24,822 - org.test.Store -INFO - Request body contains Id = 100
+2023-04-18 19:48:24,825 - org.test.Store -INFO - New pet store is created
+2023-04-18 19:48:24,854 - org.test.Store -INFO - 100
+2023-04-18 19:48:25,979 - org.test.Store -INFO - Request body contains Id = 100
+2023-04-18 19:48:25,979 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-18 19:48:27,017 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-04-19 08:22:11,483 - org.test.Pet -INFO - Status Code Matched
+2023-04-19 08:25:24,943 - org.test.Pet -INFO - Status Code Matched
+2023-04-19 08:27:43,480 - org.test.Pet -INFO - Status Code Matched
+2023-04-19 08:30:12,998 - org.test.Pet -INFO - Status Code Matched
+2023-04-19 10:47:13,382 - org.test.Pet -INFO - Status Code Matched
+2023-04-19 12:03:58,597 - org.utilities.ReadExcelData -ERROR - Excel read is not performed : java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Sheet.getLastRowNum()" because "sheet" is null
+2023-04-19 12:06:37,307 - org.utilities.ReadExcelData -ERROR - Excel read is not performed : java.io.FileNotFoundException: D:\Eclipse\APITrainingTestData\Data.xlsx (The system cannot find the path specified)
+2023-04-19 12:07:16,750 - org.utilities.ReadExcelData -ERROR - Excel read is not performed : java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Sheet.getLastRowNum()" because "sheet" is null
+2023-04-19 12:08:44,287 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 12:12:13,599 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 12:19:39,690 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 12:34:29,572 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 13:26:37,106 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 13:26:39,846 - org.test.Store -INFO - 10
+2023-04-19 13:27:55,834 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 13:27:58,284 - org.test.Store -INFO - 10
+2023-04-19 13:27:59,553 - org.test.Store -INFO - Request body contains Id = 10
+2023-04-19 13:27:59,554 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-19 13:30:44,353 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 13:30:47,253 - org.test.Store -INFO - 10
+2023-04-19 13:30:48,564 - org.test.Store -INFO - Request body contains Id = 10
+2023-04-19 13:30:48,564 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-19 13:30:49,844 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-04-19 15:38:29,556 - org.utilities.ReadExcelData -ERROR - Excel read is not performed : java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Sheet.getLastRowNum()" because "sheet" is null
+2023-04-19 15:42:30,961 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 15:42:33,510 - org.test.Store -INFO - 10
+2023-04-19 15:42:34,797 - org.test.Store -INFO - Request body contains Id = 10
+2023-04-19 15:42:34,798 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-19 15:42:36,098 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-04-19 15:59:44,038 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 16:03:32,282 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 16:07:04,692 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 16:07:07,259 - org.test.Pet -INFO - 100
+2023-04-19 16:08:51,790 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 16:08:54,782 - org.test.Pet -INFO - 100
+2023-04-19 16:08:56,006 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-19 16:08:56,006 - org.test.Pet -INFO - Successfully find the pet order by ID
+2023-04-19 16:10:11,824 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 16:10:14,341 - org.test.Pet -INFO - 100
+2023-04-19 16:10:15,622 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-19 16:10:15,623 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-19 16:10:16,843 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-19 16:30:13,190 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 16:30:15,586 - org.test.Pet -INFO - 100
+2023-04-19 16:30:44,423 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 16:30:46,724 - org.test.Pet -INFO - 100
+2023-04-19 16:30:48,000 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-19 16:30:48,001 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-19 16:30:49,240 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-19 17:00:34,620 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 17:00:37,290 - org.test.Pet -INFO - 100
+2023-04-19 17:00:38,570 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-19 17:00:38,570 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-19 17:00:39,801 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-19 17:00:39,839 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 17:00:41,130 - org.test.Pet -INFO - Status Code Matched
+2023-04-19 17:02:44,852 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 17:02:47,245 - org.test.Pet -INFO - 100
+2023-04-19 17:02:48,339 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-19 17:02:48,339 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-19 17:02:49,414 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-19 17:02:49,449 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-19 17:02:50,546 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-19 21:12:20,113 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-19 21:14:11,195 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-19 21:21:27,445 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 10:59:20,625 - org.test.Pet -INFO - Request body contains  name as James
+2023-04-20 10:59:20,628 - org.test.Pet -INFO - Successfully find the user by username
+2023-04-20 11:00:34,798 - org.test.Pet -INFO - {
+    "id": 10,
+    "username": "theUser",
+    "firstName": "John",
+    "lastName": "James",
+    "email": "john@email.com",
+    "password": "12345",
+    "phone": "12345",
+    "userStatus": 1
+}
+2023-04-20 11:00:34,803 - org.test.Pet -INFO - Request body contains  name as James
+2023-04-20 11:00:34,803 - org.test.Pet -INFO - Successfully find the user by username
+2023-04-20 11:28:59,205 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 11:29:01,996 - org.test.Pet -INFO - 100
+2023-04-20 11:29:03,157 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        null
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 11:29:03,157 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 11:29:03,157 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 11:29:04,260 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 11:29:04,301 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 11:29:05,413 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 11:32:12,323 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 11:32:14,699 - org.test.Store -INFO - 10
+2023-04-20 11:32:15,859 - org.test.Store -INFO - {
+    "id": 10,
+    "petId": 101,
+    "quantity": 1,
+    "shipDate": "2023-04-10T11:48:26.385+00:00",
+    "status": "approved",
+    "complete": true
+}
+2023-04-20 11:32:15,859 - org.test.Store -INFO - Request body contains Id = 10
+2023-04-20 11:32:15,860 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-20 11:32:16,959 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-04-20 12:03:07,761 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 12:03:10,692 - org.test.Pet -INFO - 100
+2023-04-20 12:03:11,862 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        null
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 12:03:11,863 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 12:03:11,863 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 12:03:12,973 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 12:03:13,012 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 12:03:14,305 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:03:52,729 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:03:55,415 - org.test.Pet -INFO - 100
+2023-04-20 13:03:56,684 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        null
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:03:56,685 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:03:56,685 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:03:57,907 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:03:57,947 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:03:59,240 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:08:23,691 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:08:26,187 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:08:27,531 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:09:05,178 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:09:07,660 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:09:08,898 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:12:46,639 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:12:49,107 - org.test.Pet -INFO - 100
+2023-04-20 13:12:50,400 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        null
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:12:50,401 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:12:50,401 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:12:51,617 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:12:51,654 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:12:52,945 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:13:42,666 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:13:45,181 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:13:46,373 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:22:52,969 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:22:55,530 - org.test.Pet -INFO - 100
+2023-04-20 13:22:56,816 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:22:56,817 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:22:56,818 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:22:58,033 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:22:58,081 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:22:59,364 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:23:54,786 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:23:57,280 - org.test.Pet -INFO - 100
+2023-04-20 13:23:58,564 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:23:58,565 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:23:58,565 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:23:59,779 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:23:59,810 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:24:01,111 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:26:08,384 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:26:10,911 - org.test.Pet -INFO - 100
+2023-04-20 13:26:12,194 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:26:12,195 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:26:12,196 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:26:13,365 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:26:13,406 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:26:14,588 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:27:32,045 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:27:34,499 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:27:35,747 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:28:32,104 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:28:34,478 - org.test.Pet -INFO - 100
+2023-04-20 13:28:35,760 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:28:35,761 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:28:35,761 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:28:36,975 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:28:37,020 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:28:38,308 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:29:41,419 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:29:44,109 - org.test.Pet -INFO - 100
+2023-04-20 13:29:45,394 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:29:45,395 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:29:45,396 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:29:46,710 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:29:46,752 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:29:48,043 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:30:36,734 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:30:39,070 - org.test.Pet -INFO - 100
+2023-04-20 13:30:40,219 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:30:40,220 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:30:40,221 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:30:41,596 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:30:41,637 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:30:42,826 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:31:17,342 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:31:20,168 - org.test.Pet -INFO - 100
+2023-04-20 13:31:21,563 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:31:21,564 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:31:21,564 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:31:22,763 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:31:22,804 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:31:24,194 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:32:28,133 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:32:30,607 - org.test.Pet -INFO - 100
+2023-04-20 13:32:31,971 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:32:31,972 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:32:31,972 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:32:33,314 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:32:33,359 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:32:34,646 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:33:40,082 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:33:42,796 - org.test.Pet -INFO - 100
+2023-04-20 13:33:43,947 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:33:43,948 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:33:43,948 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:33:45,057 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:33:45,099 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:33:46,326 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:44:37,057 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:44:40,228 - org.test.Pet -INFO - 100
+2023-04-20 13:44:41,700 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:44:41,701 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:44:41,702 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:44:42,915 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:44:42,960 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:44:44,655 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 13:45:27,384 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:45:29,772 - org.test.Pet -INFO - 100
+2023-04-20 13:45:31,054 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 13:45:31,055 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 13:45:31,055 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 13:45:32,190 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 13:45:32,231 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 13:45:33,513 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 14:45:15,649 - org.test.Pet -ERROR - Status code Not Matched
+2023-04-20 15:00:44,802 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:00:47,889 - org.test.Pet -INFO - 100
+2023-04-20 15:00:49,110 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 15:00:49,111 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 15:00:49,111 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 15:00:50,267 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 15:00:50,308 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:00:51,598 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 15:02:16,344 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:02:18,697 - org.test.Pet -INFO - 100
+2023-04-20 15:02:20,070 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 15:02:20,071 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 15:02:20,071 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 15:02:21,409 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 15:02:21,456 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:02:22,843 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 15:02:24,065 - org.test.Pet -INFO - Successfully get the Pet Data
+2023-04-20 15:02:25,285 - org.test.Pet -INFO - Status Code Matched
+2023-04-20 15:03:59,652 - org.test.Pet -INFO - Status Code Matched
+2023-04-20 15:04:33,181 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:04:35,606 - org.test.Pet -INFO - 100
+2023-04-20 15:04:37,100 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 15:04:37,100 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 15:04:37,100 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 15:04:38,420 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 15:04:38,458 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:04:40,057 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 15:04:41,389 - org.test.Pet -INFO - Successfully get the Pet Data
+2023-04-20 15:04:42,721 - org.test.Pet -INFO - Status Code Matched
+2023-04-20 15:04:44,974 - org.test.Pet -INFO - Status Code Matched
+2023-04-20 15:04:55,639 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:04:57,924 - org.test.Store -INFO - 10
+2023-04-20 15:04:59,219 - org.test.Store -INFO - {
+    "id": 10,
+    "petId": 101,
+    "quantity": 1,
+    "shipDate": "2023-04-10T11:48:26.385+00:00",
+    "status": "approved",
+    "complete": true
+}
+2023-04-20 15:04:59,220 - org.test.Store -INFO - Request body contains Id = 10
+2023-04-20 15:04:59,220 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-20 15:05:00,538 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-04-20 15:12:18,698 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:12:44,050 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:12:46,512 - org.test.Store -INFO - 10
+2023-04-20 15:12:47,659 - org.test.Store -INFO - {
+    "id": 10,
+    "petId": 101,
+    "quantity": 1,
+    "shipDate": "2023-04-10T11:48:26.385+00:00",
+    "status": "approved",
+    "complete": true
+}
+2023-04-20 15:12:47,660 - org.test.Store -INFO - Request body contains Id = 10
+2023-04-20 15:12:47,661 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-20 15:12:48,720 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-04-20 15:13:34,877 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:13:37,152 - org.test.Store -INFO - 10
+2023-04-20 15:13:38,263 - org.test.Store -INFO - {
+    "id": 10,
+    "petId": 101,
+    "quantity": 1,
+    "shipDate": "2023-04-10T11:48:26.385+00:00",
+    "status": "approved",
+    "complete": true
+}
+2023-04-20 15:13:38,264 - org.test.Store -INFO - Request body contains Id = 10
+2023-04-20 15:13:38,264 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-20 15:13:39,367 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-04-20 15:15:03,275 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:15:05,686 - org.test.Store -INFO - 10
+2023-04-20 15:15:06,790 - org.test.Store -INFO - {
+    "id": 10,
+    "petId": 101,
+    "quantity": 1,
+    "shipDate": "2023-04-10T11:48:26.385+00:00",
+    "status": "approved",
+    "complete": true
+}
+2023-04-20 15:15:06,791 - org.test.Store -INFO - Request body contains Id = 10
+2023-04-20 15:15:06,791 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-20 15:15:07,870 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-04-20 15:16:06,841 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:16:09,269 - org.test.Store -INFO - 10
+2023-04-20 15:16:10,441 - org.test.Store -INFO - {
+    "id": 10,
+    "petId": 101,
+    "quantity": 1,
+    "shipDate": "2023-04-10T11:48:26.385+00:00",
+    "status": "approved",
+    "complete": true
+}
+2023-04-20 15:16:10,441 - org.test.Store -INFO - Request body contains Id = 10
+2023-04-20 15:16:10,441 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-20 15:16:11,511 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-04-20 15:17:06,734 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:17:09,060 - org.test.Store -INFO - 10
+2023-04-20 15:17:10,211 - org.test.Store -INFO - {
+    "id": 10,
+    "petId": 101,
+    "quantity": 1,
+    "shipDate": "2023-04-10T11:48:26.385+00:00",
+    "status": "approved",
+    "complete": true
+}
+2023-04-20 15:17:10,211 - org.test.Store -INFO - Request body contains Id = 10
+2023-04-20 15:17:10,211 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-04-20 15:17:11,286 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-04-20 15:18:46,835 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:22:00,034 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 15:23:17,629 - org.test.Pet -INFO - Successfully get the Pet Data
+2023-04-20 15:23:45,585 - org.test.Pet -INFO - Successfully get the Pet Data
+2023-04-20 15:25:36,839 - org.test.Pet -INFO - Successfully get the Pet Data
+2023-04-20 16:24:56,613 - org.test.Pet -INFO - Successfully get the Pet Data
+2023-04-20 16:26:03,691 - org.test.Pet -INFO - [
+    {
+        "id": 990,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 21,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 70,
+        "category": {
+            "id": 69,
+            "name": "Tigers"
+        },
+        "name": "Tigger",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 61,
+        "category": {
+            "id": 69,
+            "name": "Tigers"
+        },
+        "name": "Tigger",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10020,
+        "category": {
+            "id": 4,
+            "name": "Lions"
+        },
+        "name": "TrainingLionCorrelationA",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10018,
+        "category": {
+            "id": 2,
+            "name": "Cats"
+        },
+        "name": "TrainingCatCorrelationA",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10019,
+        "category": {
+            "id": 2,
+            "name": "Cats"
+        },
+        "name": "TrainingCatCorrelationB",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10017,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "TrainingDogCorrelationB",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10016,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "TrainingDogCorrelationA",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 8,
+        "category": {
+            "id": 0,
+            "name": ""
+        },
+        "name": "Lion 2Prueba",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            
+        ],
+        "status": "available"
+    },
+    {
+        "id": 12,
+        "category": {
+            "id": 0,
+            "name": ""
+        },
+        "name": "Trunks",
+        "photoUrls": [
+            "prueba de que funciona"
+        ],
+        "tags": [
+            
+        ],
+        "status": "available"
+    },
+    {
+        "id": 24,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Balou",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 0,
+        "category": {
+            "id": 0,
+            "name": ""
+        },
+        "name": "Trunks",
+        "photoUrls": [
+            "prueba"
+        ],
+        "tags": [
+            
+        ],
+        "status": "available"
+    },
+    {
+        "id": 421,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Dank",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 233,
+        "category": {
+            "id": 2,
+            "name": "Snakes"
+        },
+        "name": "Jacques Zhe Whipper",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "danger noodle"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 7,
+        "category": {
+            "id": 101,
+            "name": "Lab"
+        },
+        "name": "Tom",
+        "photoUrls": [
+            "String",
+            "Arun"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "Dhoni"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 9,
+        "category": {
+            "id": 0,
+            "name": "bhuva"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 545,
+        "category": {
+            "id": 1,
+            "name": "Cats"
+        },
+        "name": "Mira",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "cute"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 1681984853503,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 1111,
+        "category": {
+            "id": 666,
+            "name": "Imps"
+        },
+        "name": "Jean-Jacques",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 879,
+        "category": {
+            "id": 1,
+            "name": "jackaangepast"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 105,
+        "category": {
+            "id": 69,
+            "name": "Tigers"
+        },
+        "name": "Tigger",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "dom"
+            },
+            {
+                "id": 2,
+                "name": "dik"
+            },
+            {
+                "id": 3,
+                "name": "lelijk"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 420420,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Dank",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "COOL"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "photoUrls",
+            "photoUrls"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "name"
+            },
+            {
+                "id": 0,
+                "name": "name"
+            }
+        ],
+        "status": "available"
+    }
+]
+2023-04-20 16:26:03,695 - org.test.Pet -INFO - Successfully get the Pet Data
+2023-04-20 20:36:55,532 - org.test.Pet -INFO - [
+    {
+        "id": 21,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 70,
+        "category": {
+            "id": 69,
+            "name": "Tigers"
+        },
+        "name": "Tigger",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 61,
+        "category": {
+            "id": 69,
+            "name": "Tigers"
+        },
+        "name": "Tigger",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10020,
+        "category": {
+            "id": 4,
+            "name": "Lions"
+        },
+        "name": "TrainingLionCorrelationA",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10018,
+        "category": {
+            "id": 2,
+            "name": "Cats"
+        },
+        "name": "TrainingCatCorrelationA",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10019,
+        "category": {
+            "id": 2,
+            "name": "Cats"
+        },
+        "name": "TrainingCatCorrelationB",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10017,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "TrainingDogCorrelationB",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 10016,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "TrainingDogCorrelationA",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 8,
+        "category": {
+            "id": 0,
+            "name": ""
+        },
+        "name": "Lion 2Prueba",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            
+        ],
+        "status": "available"
+    },
+    {
+        "id": 12,
+        "category": {
+            "id": 0,
+            "name": ""
+        },
+        "name": "Trunks",
+        "photoUrls": [
+            "prueba de que funciona"
+        ],
+        "tags": [
+            
+        ],
+        "status": "available"
+    },
+    {
+        "id": 24,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Balou",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 0,
+        "category": {
+            "id": 0,
+            "name": ""
+        },
+        "name": "Trunks",
+        "photoUrls": [
+            "prueba"
+        ],
+        "tags": [
+            
+        ],
+        "status": "available"
+    },
+    {
+        "id": 421,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Dank",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 233,
+        "category": {
+            "id": 2,
+            "name": "Snakes"
+        },
+        "name": "Jacques Zhe Whipper",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "danger noodle"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 545,
+        "category": {
+            "id": 1,
+            "name": "Cats"
+        },
+        "name": "Mira",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "cute"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 1681984853503,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 105,
+        "category": {
+            "id": 69,
+            "name": "Tigers"
+        },
+        "name": "Tigger",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "dom"
+            },
+            {
+                "id": 2,
+                "name": "dik"
+            },
+            {
+                "id": 3,
+                "name": "lelijk"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 420420,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Dank",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "COOL"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 374,
+        "category": {
+            "id": 1,
+            "name": "CatUpdated"
+        },
+        "name": "Pet374Updated",
+        "photoUrls": [
+            "www.url_updated.com"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag1Updated"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 376,
+        "category": {
+            "id": 1,
+            "name": "Cat"
+        },
+        "name": "Pet376",
+        "photoUrls": [
+            "www.url.com"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag1"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 375,
+        "category": {
+            "id": 1,
+            "name": "CatUpdated"
+        },
+        "name": "Pet375Updated",
+        "photoUrls": [
+            "www.url_updated.com"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag1Updated"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 377,
+        "category": {
+            "id": 1,
+            "name": "Cat"
+        },
+        "name": "Pet377",
+        "photoUrls": [
+            "www.url.com"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag1"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 879,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "jack",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 144,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 1045,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "DOC"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 20,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Mouse",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 100,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 1681999735439,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 1682003018741,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    }
+]
+2023-04-20 20:36:55,538 - org.test.Pet -INFO - Successfully get the Pet Data by status
+2023-04-20 20:36:56,246 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 20:36:57,801 - org.test.Pet -INFO - 100
+2023-04-20 20:36:59,000 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-04-20 20:36:59,001 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-04-20 20:36:59,001 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-04-20 20:37:00,533 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-04-20 20:37:00,568 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-04-20 20:37:01,766 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-04-20 20:37:03,049 - org.test.Pet -INFO - Successfully get the Pet Data
+2023-04-20 20:37:05,715 - org.test.Pet -INFO - Status Code Matched
+2023-05-13 16:37:40,147 - org.test.Pet -INFO - [
+    {
+        "id": 4,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Dog 1",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag1"
+            },
+            {
+                "id": 2,
+                "name": "tag2"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 7,
+        "category": {
+            "id": 4,
+            "name": "Lions"
+        },
+        "name": "Lion 1",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag1"
+            },
+            {
+                "id": 2,
+                "name": "tag2"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 8,
+        "category": {
+            "id": 4,
+            "name": "Lions"
+        },
+        "name": "Lion 2",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag2"
+            },
+            {
+                "id": 2,
+                "name": "tag3"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 9,
+        "category": {
+            "id": 4,
+            "name": "Lions"
+        },
+        "name": "Lion 3",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag3"
+            },
+            {
+                "id": 2,
+                "name": "tag4"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 501,
+        "category": {
+            "id": 1,
+            "name": "Пух"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 1,
+        "category": {
+            "id": 150,
+            "name": "Пух"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 150,
+        "category": {
+            "id": 150,
+            "name": "Собаки"
+        },
+        "name": "Пу",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 817709,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Nebeska",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 100,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    }
+]
+2023-05-13 16:37:40,154 - org.test.Pet -INFO - Successfully get the Pet Data by status
+2023-05-13 16:37:40,930 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-13 16:37:42,731 - org.test.Pet -INFO - 100
+2023-05-13 16:37:44,226 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-05-13 16:37:44,227 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-05-13 16:37:44,227 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-05-13 16:37:46,040 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-05-13 16:37:46,077 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-13 16:37:47,810 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-05-13 16:37:49,654 - org.test.Pet -INFO - Successfully get the Pet Data
+2023-05-13 16:37:51,394 - org.test.Pet -INFO - Status Code Matched
+2023-05-13 16:37:53,238 - org.test.Pet -INFO - Status Code Matched
+2023-05-13 16:40:13,287 - org.test.Pet -INFO - [
+    {
+        "id": 4,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Dog 1",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag1"
+            },
+            {
+                "id": 2,
+                "name": "tag2"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 8,
+        "category": {
+            "id": 4,
+            "name": "Lions"
+        },
+        "name": "Lion 2",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag2"
+            },
+            {
+                "id": 2,
+                "name": "tag3"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 9,
+        "category": {
+            "id": 4,
+            "name": "Lions"
+        },
+        "name": "Lion 3",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag3"
+            },
+            {
+                "id": 2,
+                "name": "tag4"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 501,
+        "category": {
+            "id": 1,
+            "name": "Пух"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 1,
+        "category": {
+            "id": 150,
+            "name": "Пух"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 150,
+        "category": {
+            "id": 150,
+            "name": "Собаки"
+        },
+        "name": "Пу",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 817709,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Nebeska",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 100,
+        "category": {
+            "id": 1,
+            "name": "Dog"
+        },
+        "name": "Charlie",
+        "photoUrls": [
+            "DogPhoto"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "Lab"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 7,
+        "category": {
+            "id": 101,
+            "name": "Lab"
+        },
+        "name": "Tom",
+        "photoUrls": [
+            "String",
+            "Arun"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "Dhoni"
+            }
+        ],
+        "status": "available"
+    }
+]
+2023-05-13 16:40:13,292 - org.test.Pet -INFO - Successfully get the Pet Data by status
+2023-05-13 16:40:13,955 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-13 16:40:15,816 - org.test.Pet -INFO - 100
+2023-05-13 16:40:17,627 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-05-13 16:40:17,628 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-05-13 16:40:17,629 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-05-13 16:40:19,264 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-05-13 16:40:19,296 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-13 16:40:21,108 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-05-13 16:40:24,346 - org.test.Pet -INFO - Status Code Matched
+2023-05-13 16:40:25,830 - org.test.Pet -INFO - Status Code Matched
+2023-05-15 17:50:52,831 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-15 17:50:55,705 - org.test.Pet -INFO - 100
+2023-05-15 17:50:57,103 - org.test.Pet -INFO - {
+    "id": 100,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Kutty",
+    "photoUrls": [
+        "photo"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "Charlie"
+        }
+    ],
+    "status": "available"
+}
+2023-05-15 17:50:57,104 - org.test.Pet -INFO - Request body contains pet name as Kutty
+2023-05-15 17:50:57,104 - org.test.Pet -INFO - Successfully find the pet by ID
+2023-05-15 17:50:58,306 - org.test.Pet -INFO - Successfully deleted the pet by ID
+2023-05-15 17:50:58,350 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-15 17:50:59,633 - org.test.Pet -INFO - Successfully Upadte Pet Data
+2023-05-18 18:56:59,262 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-18 18:57:02,161 - org.test.Store -INFO - 10
+2023-05-18 18:57:03,262 - org.test.Store -INFO - {
+    "id": 10,
+    "petId": 101,
+    "quantity": 1,
+    "shipDate": "2023-04-10T11:48:26.385+00:00",
+    "status": "approved",
+    "complete": true
+}
+2023-05-18 18:57:03,263 - org.test.Store -INFO - Request body contains Id = 10
+2023-05-18 18:57:03,263 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-05-18 18:57:04,395 - org.test.Store -INFO - Successfully deleted the purchase order by ID
+2023-05-18 22:36:17,518 - org.utilities.ReadExcelData -INFO - Excel read is performed
+2023-05-18 22:36:20,099 - org.test.Store -INFO - 10
+2023-05-18 22:36:21,294 - org.test.Store -INFO - {
+    "id": 10,
+    "petId": 101,
+    "quantity": 1,
+    "shipDate": "2023-04-10T11:48:26.385+00:00",
+    "status": "approved",
+    "complete": true
+}
+2023-05-18 22:36:21,294 - org.test.Store -INFO - Request body contains Id = 10
+2023-05-18 22:36:21,295 - org.test.Store -INFO - Successfully find the purchase order by ID
+2023-05-18 22:36:22,431 - org.test.Store -INFO - Successfully deleted the purchase order by ID
